@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I recently graduated from BITS-Pilani K. K. Birla Goa Campus and will now be starting a PhD under Prof. Kostas Alexis at University of Nevada, Reno.
+
+I am interested in motion planning for robots and currently working in multiobjective exploration planning.
+
 <!--
 **MihirDharmadhikari/MihirDharmadhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
