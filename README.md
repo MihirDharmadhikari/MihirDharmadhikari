@@ -2,7 +2,7 @@
 
 I am a PhD candidate under Prof. Kostas Alexis at Norwegian University of Science and Technology.
 
-I am interested in motion planning for robots and currently working semantics driven path planning.
+I am interested in motion planning for robots and currently working on semantics driven path planning.
 
 <!--
 **MihirDharmadhikari/MihirDharmadhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
